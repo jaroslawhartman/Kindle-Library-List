@@ -3,7 +3,7 @@ Extract documents list from Amazon Kindle webpage and save into a `txt`, `xml` a
 
 ## How to use:
 
-1. Download (or build) `KindleLibrary.jar`
+1. [Download](https://github.com/jaroslawhartman/Kindle-Library-List/tree/master/bin) (or build) `KindleLibrary.jar`
 2. Navigate to [Manage your content and devices](https://www.amazon.com/mn/dcw/myx.html/ref=nav_youraccount_myk) Amazon page
 3. Switch Show to Docs
 ![Image 1](https://cloud.githubusercontent.com/assets/964833/18419183/9b19b5bc-7855-11e6-8676-bc986ac2f63b.png)
@@ -23,11 +23,11 @@ Saving 1.xml
 Done!
 ```
 
-8. Convert all `html` files saved earlier
-9. Exported `html` and `xml` looks as below
+8.Convert all `html` files saved earlier
+
+### Example of output `html` and `xml` looks as below
 
 ![Image 3](https://cloud.githubusercontent.com/assets/964833/18419185/9b215c68-7855-11e6-9250-89ec957a3177.png)
-
 ![Image 4](https://cloud.githubusercontent.com/assets/964833/18419186/9b27968c-7855-11e6-8192-783c715a9754.png)
 
 ## Libraries & References
